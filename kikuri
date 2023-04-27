@@ -1,5 +1,5 @@
 /**
- * @name kukurithetheme
+ * @name kikurithetheme
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -51,7 +51,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: url('https://i.imgur.com/DKUqdjm.png');
+  --user-modal-image: transparent;
   --user-modal-position: center;
   --user-modal-size: 340%;
   --user-modal-repeat: repeat;
