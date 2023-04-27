@@ -1,5 +1,5 @@
 /**
- * @name kikurithetheme
+ * @name kukurithetheme
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -12,6 +12,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Comic+Sans+MS:wght@100;300;400;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Papyrus:wght@100;300;400;500;700&display=swap');
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
@@ -52,14 +54,14 @@
   --user-modal-image: url('https://i.imgur.com/DKUqdjm.png');
   --user-modal-position: center;
   --user-modal-size: 340%;
-  --user-modal-repeat: no-repeat;
-  --user-modal-attachment: fixed;
-  --user-modal-brightness: 100%;
+  --user-modal-repeat: repeat;
+  --user-modal-attachment: scroll;
+  --user-modal-brightness: 81%;
   --user-modal-contrast: 100%;
   --user-modal-saturation: 100%;
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
-  --user-modal-blur: 2px;
+  --user-modal-blur: 0px;
   --home-icon: url('https://i.imgur.com/0z6vbbM.gif');
   --home-position: center;
   --home-size: 40px;
