@@ -16,13 +16,15 @@
 @import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
 
 :root {
-  --main-color: #5B0316;
-  --hover-color: #4E0313;
+  --main-color: #BB0028;
+  --hover-color: #950020;
   --success-color: #28FF00;
   --danger-color: #FF0000;
-  --url-color: #9AAD5E;
+  --url-color: #3BB8DF;
   --background-image: url('https://i.imgur.com/5itMoSP.png');
   --background-shading: 0%;
   --background-position: center;
@@ -36,7 +38,7 @@
   --background-invert: 0%;
   --background-blur: 1px;
   --background-overlay: rgb(0,0,0,0.13);
-  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-image: transparent;
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
