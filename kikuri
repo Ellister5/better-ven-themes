@@ -1,5 +1,5 @@
 /**
- * @name kikuri the theme
+ * @name kikurithetheme
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -14,13 +14,15 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
 
 :root {
   --main-color: #5B0316;
   --hover-color: #4E0313;
   --success-color: #28FF00;
   --danger-color: #FF0000;
-  --url-color: #585E45;
+  --url-color: #9AAD5E;
   --background-image: url('https://i.imgur.com/5itMoSP.png');
   --background-shading: 0%;
   --background-position: center;
